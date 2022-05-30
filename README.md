@@ -3,7 +3,7 @@
 * [Technologies](#technologies)
 * [Bayes Filter](#bayes-filter)
 * [Particle Filter](#particle-filter)
-* [Kalman Filter](#kalman-filter)
+* [Extended Kalman Filter](#kalman-filter)
 
 ## General info
 Implementations of filters and models use for mobile robot localization.
@@ -14,8 +14,15 @@ Project is created with:
 
 ## Bayes Filter
 
+
+![Alt Text](https://github.com/JoseFranciscoGonzalez/ProbabilisticRobotics/blob/main/Bayes%20filter/bf.gif)
+
+
 ## Particle Filter
 
 ![Alt Text](https://github.com/JoseFranciscoGonzalez/ProbabilisticRobotics/blob/main/Particle%20filter%20framework/pf%20gif.gif)
 
-## Kalman Filter
+## Extended Kalman Filter
+
+![Alt Text](https://github.com/JoseFranciscoGonzalez/ProbabilisticRobotics/blob/main/Extended%20Kalman%20filter%20framework/ekf%20gif.gif)
+
