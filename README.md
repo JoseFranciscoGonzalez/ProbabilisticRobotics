@@ -16,6 +16,6 @@ Project is created with:
 
 ## Particle Filter
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/JoseFranciscoGonzalez/ProbabilisticRobotics/blob/main/Particle%20filter%20framework/pf%20gif.gif))
+![Alt Text](https://github.com/JoseFranciscoGonzalez/ProbabilisticRobotics/blob/main/Particle%20filter%20framework/pf%20gif.gif)
 
 ## Kalman Filter
